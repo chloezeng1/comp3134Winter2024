@@ -1,0 +1,8 @@
+PING 159.203.10.221 (159.203.10.221): 56 data bytes
+64 bytes from 159.203.10.221: icmp_seq=0 ttl=55 time=5.680 ms
+64 bytes from 159.203.10.221: icmp_seq=1 ttl=55 time=9.131 ms
+64 bytes from 159.203.10.221: icmp_seq=2 ttl=55 time=8.497 ms
+
+--- 159.203.10.221 ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.680/7.769/9.131/1.500 ms
