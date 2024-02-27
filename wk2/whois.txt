@@ -1,0 +1,98 @@
+Domain name: shopper.com
+Registry Domain ID: 33927_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2022-09-05T10:24:56.71Z
+Creation Date: 1996-07-05T04:00:00.00Z
+Registrar Registration Expiration Date: 2028-07-04T04:00:00.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+
+Domain Name: home.com
+Registry Domain ID: 1668509_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.brandsight.com
+Registrar URL: https://gcd.com
+Updated Date: 2022-04-09T03:53:51Z
+Creation Date: 1993-12-16T05:00:00Z
+Registrar Registration Expiration Date: 2031-12-15T05:00:00Z
+Registrar: GoDaddy Corporate Domains, LLC
+Registrar IANA ID: 3786
+Registrar Abuse Contact Email: abuse@gcd.com
+Registrar Abuse Contact Phone: +1.5188315864
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Fairway Independent Mortgage Corporation
+Registrant State/Province: WI
+Registrant Country: US
+
+Domain Name: friend.com
+Registry Domain ID: 649549_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-02-22T17:24:38Z
+Creation Date: 1995-01-03T00:00:00Z
+Registrar Registration Expiration Date: 2029-01-02T00:00:00Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 2155 E Warner Rd
+Registrant City: Tempe
+Registrant State/Province: Arizona
+
+Domain Name: tree.ca
+Registry Domain ID: D422547-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: http://baremetal.com/
+Updated Date: 2024-02-12T19:43:14Z
+Creation Date: 2006-08-16T19:25:06Z
+Registry Expiry Date: 2025-08-16T04:00:00Z
+Registrar: BareMetal.com inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: support@baremetal.com
+Registrar Abuse Contact Phone: +1.2505987708
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: R28374-CIRA
+Registrant Name: Irex Corp.
+Registrant Organization:
+Registrant Street: BOX 315
+Registrant City: Vineland
+Registrant State/Province: ON
+
+Domain Name: learning.ca
+Registry Domain ID: D2009-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2022-11-28T13:40:33Z
+Creation Date: 2000-09-27T22:40:19Z
+Registry Expiry Date: 2029-01-10T05:00:00Z
+Registrar: easyDNS Technologies Inc.
+
+Domain Name: easy.ca
+Registry Domain ID: D71737-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2024-02-02T03:59:04Z
+Creation Date: 2001-02-01T17:17:14Z
+Registry Expiry Date: 2025-02-01T05:00:00Z
+Registrar: Go Daddy Domains Canada, Inc
