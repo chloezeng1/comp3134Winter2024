@@ -1,0 +1,19 @@
+amazon.ca
+54.239.19.238	Hosted by Amazon.com, Inc. Amazon.com, Inc.
+52.94.225.242	Hosted by Amazon.com, Inc. Amazon.com, Inc.
+54.239.18.172	Hosted by Amazon.com, Inc. Amazon.com, Inc.
+
+domino.ca
+	IP address	Hosted by
+34.111.46.214	Hosted by Google LLC Google LLC
+
+facebook.com
+157.240.22.19	Hosted by Facebook, Inc. Facebook, Inc.
+2a03:2880:f031:12:face:b00c:0:2	Hosted by Facebook, Inc. Facebook, Inc.
+
+instagram.com
+157.240.22.174	Hosted by Facebook, Inc. Facebook, Inc.
+2a03:2880:f231:e5:face:b00c:0:4420	Hosted by Facebook, Inc. Facebook, Inc.
+
+cart.ca
+69.16.231.58	Hosted by Liquid Web, L.L.C Liquid Web, L.L.C
