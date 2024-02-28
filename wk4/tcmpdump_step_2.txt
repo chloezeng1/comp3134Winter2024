@@ -1,0 +1,10 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+17:43:24.152879 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978: Flags [P.], seq 1350621138:1350621190, ack 3931487041, win 501, options [nop,nop,TS val 2335155064 ecr 2809162002], length 52
+17:43:24.153863 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978: Flags [P.], seq 52:160, ack 1, win 501, options [nop,nop,TS val 2335155065 ecr 2809162002], length 108
+17:43:24.153937 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978: Flags [P.], seq 160:316, ack 1, win 501, options [nop,nop,TS val 2335155065 ecr 2809162002], length 156
+17:43:24.154029 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978: Flags [P.], seq 316:420, ack 1, win 501, options [nop,nop,TS val 2335155065 ecr 2809162002], length 104
+17:43:24.158624 IP bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 316, win 2043, options [nop,nop,TS val 2809162017 ecr 2335155065], length 0
+5 packets captured
+25 packets received by filter
+0 packets dropped by kernel
