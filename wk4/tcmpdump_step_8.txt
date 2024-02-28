@@ -1,0 +1,11 @@
+18:01:31.101666 IP 142.126.121.237.62978 > 159.203.10.221.22: Flags [.], ack 116600, win 25988, options [nop,nop,TS val 2810248962 ecr 2336242007], length 0
+18:01:31.199887 IP 159.203.10.221.22 > 142.126.121.237.62978: Flags [P.], seq 116600:116972, ack 73, win 501, options [nop,nop,TS val 2336242111 ecr 2810248962], length 372
+18:01:31.205038 IP 142.126.121.237.62978 > 159.203.10.221.22: Flags [.], ack 116972, win 25988, options [nop,nop,TS val 2810249066 ecr 2336242111], length 0
+18:01:31.303905 IP 159.203.10.221.22 > 142.126.121.237.62978: Flags [P.], seq 116972:117344, ack 73, win 501, options [nop,nop,TS val 2336242215 ecr 2810249066], length 372
+18:01:31.310381 IP 142.126.121.237.62978 > 159.203.10.221.22: Flags [.], ack 117344, win 25988, options [nop,nop,TS val 2810249171 ecr 2336242215], length 0
+18:01:31.407874 IP 159.203.10.221.22 > 142.126.121.237.62978: Flags [P.], seq 117344:117716, ack 73, win 501, options [nop,nop,TS val 2336242319 ecr 2810249171], length 372
+18:01:31.413683 IP 142.126.121.237.62978 > 159.203.10.221.22: Flags [.], ack 117716, win 25988, options [nop,nop,TS val 2810249274 ecr 2336242319], length 0
+18:01:31.511915 IP 159.203.10.221.22 > 142.126.121.237.62978: Flags [P.], seq 117716:118088, ack 73, win 501, options [nop,nop,TS val 2336242423 ecr 2810249274], length 372
+1109 packets captured
+1116 packets received by filter
+0 packets dropped by kernel
