@@ -1,0 +1,24 @@
+
+	0x00e0:  cf99 268d 90bb f567 dfab 9f61 97dd 1f15  ..&....g...a....
+	0x00f0:  19e4 e5e2 d689 53a1 acb7 0ac6 0a2a a448  ......S......*.H
+	0x0100:  80ed 3bab c407 01c2 94fc 62e7 1b5f a6af  ..;.......b.._..
+	0x0110:  024b ee09 2066 13ef 0f08 4e15 f80e 19ad  .K...f....N.....
+	0x0120:  3349 344d 3ab4 6799 aee2 dc65 c70a 7b88  3I4M:.g....e..{.
+	0x0130:  5b87 766c f964 9891 8bbe 8a04 ca45 5ec1  [.vl.d.......E^.
+	0x0140:  6585 9b1e 890f c777 cf0a b100 b8e1 8938  e......w.......8
+	0x0150:  5023 6620 bee2 0d2c a264 73f6 6854 878f  P#f....,.ds.hT..
+	0x0160:  e79e 3fba f347 979e 12c0 1d8f acee 290f  ..?..G........).
+	0x0170:  02e8 8761 5632 aa3d ffe4 ff56 340f 778b  ...aV2.=...V4.w.
+	0x0180:  0951 25c9 a781 69fc 7ebd b712 0eb5 6f5d  .Q%...i.~.....o]
+	0x0190:  1f88 24a6 629e aae7 5672 0975 274b 2cdb  ..$.b...Vr.u'K,.
+	0x01a0:  4e37 6704 b9f8 37a5 2247 63e9 7227 432b  N7g...7."Gc.r'C+
+	0x01b0:  778c 1062 e94b 2b7d 12e3 e721 5349 70ca  w..b.K+}...!SIp.
+	0x01c0:  fa51 d0f8 1ca3 8ec6 961d d270 341a 3052  .Q.........p4.0R
+	0x01d0:  131d c74b 1b94 4302 1ddc ee2d 28a5 1947  ...K..C....-(..G
+	0x01e0:  7903 adf0 2928 dcea 2c1a 356f 4103 f5c3  y...)(..,.5oA...
+	0x01f0:  49a6 1501 76ca 6a6f f78f fef9 cbe9 8d88  I...v.jo........
+	0x0200:  19e4 f47a eda5                           ...z..
+
+11520 packets captured
+77555 packets received by filter
+63299 packets dropped by kernel
