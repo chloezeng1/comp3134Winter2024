@@ -1,0 +1,8 @@
+17:57:56.543315 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.https > 47.74.90.127.54024: Flags [R.], seq 0, ack 694169003, win 0, length 0
+17:57:57.788714 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 23-95-213-146-host.colocrossing.com.44054: Flags [P.], seq 1738:1790, ack 1199, win 502, options [nop,nop,TS val 2400889085 ecr 3047844718], length 52
+17:57:57.850701 IP 23-95-213-146-host.colocrossing.com.44054 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1199:1251, ack 1790, win 501, options [nop,nop,TS val 3047848251 ecr 2400889085], length 52
+17:57:57.850701 IP 23-95-213-146-host.colocrossing.com.44054 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [F.], seq 1251, ack 1790, win 501, options [nop,nop,TS val 3047848251 ecr 2400889085], length 0
+17:57:57.850758 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 23-95-213-146-host.colocrossing.com.44054: Flags [.], ack 1251, win 502, options [nop,nop,TS val 2400889147 ecr 3047848251], length 0
+17:57:57.852408 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 23-95-213-146-host.colocrossing.com.44054: Flags [F.], seq 1790, ack 1252, win 502, options [nop,nop,TS val 2400889148 ecr 3047848251], length 0
+17:57:57.912658 IP 23-95-213-146-host.colocrossing.com.44054 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1791, win 501, options [nop,nop,TS val 3047848313 ecr 2400889148], length 0
+17:57:58.209306 IP 24.211.203.35.bc.googleusercontent.com.51745 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.45125: Flags [S], seq 3892451103, win 1024, options [mss 1460], length 0
