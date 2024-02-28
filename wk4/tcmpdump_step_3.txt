@@ -1,0 +1,14 @@
+-.. .....;k&.'..........?....6..%>&W4.>F..5..exS
+17:44:58.583280 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978: Flags [P.], seq 39902172:39902608, ack 21997, win 501, options [nop,nop,TS val 2335249494 ecr 2809256441], length 436
+E....r@.@..y..
+..~y.....R....V.	...........
+.1.V.q..)m.4.O....,. ..J.(.*..j&......[.5...................Frd.+,y%....&p=.X~/....L...@..h...rW.[...x3.R..\a:.....&"....!o.;.. .
+.... B..vJ...2.S.....l..Or...@..A.O...l.....c...4.+V....G`.Y..*"W)"...*.B...-{...U.<.C...@.Z....b....* g.'.....6.KJ.f...w	....+..:.."2Jm.......o....."...z.5UC.Z...H....','.9..?5ro!.....-...<.*.~.fl....Wi......}..HS.1..i..L......Eq...j.. =.%..D.%!...T0P.B..g#.E......QL..........D.....q..r..l.Y.	.1f*V...|....K3..c)
+17:44:58.583359 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon213mw-grc-15-142-126-121-237.dsl.bell.ca.62978: Flags [P.], seq 39902608:39902644, ack 21997, win 501, options [nop,nop,TS val 2335249494 ecr 2809256441], length 36
+E..X.s@.@.....
+^C..~y.....R....V.	.....^.....
+.1.V.q.....7.._"..e(..`.x.5....t.._..m....Xz
+
+52411 packets captured
+112853 packets received by filter
+56843 packets dropped by kernel
