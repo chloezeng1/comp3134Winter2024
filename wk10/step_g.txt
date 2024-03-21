@@ -1,8 +1,0 @@
-In the web application development process, it's common to include comments in the source code to explain the code's functionality, 
-note the authorship, or mark areas for future improvement. 
-However, when these comments are left in the HTML code, they become visible to anyone who views the source of the web page. 
-This visibility can lead to unintended disclosure of sensitive information such as internal notes, developer identities, 
-or even hints about potential vulnerabilities in the application.
-To address this issue, we have converted HTML comments into PHP comments in the comments_in_source_code_part2.php script. 
-PHP comments are processed on the server side and are not sent to the client's browser, making them invisible in the page's source view. 
-This change ensures that any commentary intended for developers or system maintainers does not get exposed to the public or potential attackers.
