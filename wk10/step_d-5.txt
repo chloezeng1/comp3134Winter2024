@@ -1,0 +1,11 @@
+1. What I see on the browser?
+The browser displays warnings indicating that scandir() failed to open the specified directory, 
+which suggests that the input from the query string (q) is being directly used in filesystem operations without proper validation or sanitization.
+The warnings also expose part of the server's file path (/var/www/html/directory_traversal_part1.php), 
+which can provide an attacker with information about the server's directory structure.
+
+2. What sensitive information is given by this page?
+Server Path Disclosure: The warnings reveal the full path to the script (/var/www/html/directory_traversal_part1.php), 
+which is sensitive information as it tells an attacker where the web root is located on the server.
+Potential Directory Traversal: If the correct traversal syntax is used (like ../../), an attacker could potentially list and access files and directories outside of the web root, 
+leading to unauthorized access to sensitive files or information.
