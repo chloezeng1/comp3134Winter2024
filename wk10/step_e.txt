@@ -1,0 +1,8 @@
+1.Mitigate Directory Traversal:
+Use basename() to get the base name of the provided path, preventing access to the parent directories.
+Concatenate the base name with the predefined root directory path to ensure the traversal is restricted within the specified root.
+Ensure Directory Exists:
+Before accessing the directory, check if it exists and is a directory using file_exists() and is_dir() functions.
+Bonus - Prevent File Access:
+A check can be added to ensure the query parameter is a directory name and not a file. 
+This can be done by examining if there's a dot in the name, which typically signifies a file rather than a directory.
