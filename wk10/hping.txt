@@ -1,0 +1,227 @@
+1. 
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# hping3 -c 10000 -S --rand-source 159.203.10.221
+HPING 159.203.10.221 (eth0 159.203.10.221): S set, 40 headers + 0 data bytes
+len=40 ip=159.203.10.221 ttl=1 DF id=0 sport=0 flags=RA seq=0 win=0 rtt=5.1 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=1 win=0 rtt=4.9 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=2 win=0 rtt=4.7 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=3 win=0 rtt=4.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=4 win=0 rtt=4.4 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=5 win=0 rtt=4.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=6 win=0 rtt=4.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=7 win=0 rtt=3.9 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=8 win=0 rtt=3.7 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=9 win=0 rtt=3.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=10 win=0 rtt=3.4 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=11 win=0 rtt=3.3 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=12 win=0 rtt=3.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=13 win=0 rtt=2.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=14 win=0 rtt=2.6 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=15 win=0 rtt=2.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=16 win=0 rtt=2.3 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=17 win=0 rtt=2.1 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=18 win=0 rtt=1.9 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=19 win=0 rtt=1.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=20 win=0 rtt=1.6 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=21 win=0 rtt=1.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=22 win=0 rtt=1.4 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=23 win=0 rtt=1.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=24 win=0 rtt=1.0 ms
+len=40 ip=159.203.10.221 ttl=1 DF id=0 sport=0 flags=RA seq=25 win=0 rtt=0.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=26 win=0 rtt=0.6 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=27 win=0 rtt=0.4 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=28 win=0 rtt=0.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=29 win=0 rtt=8.1 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=30 win=0 rtt=7.9 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=31 win=0 rtt=7.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=32 win=0 rtt=7.6 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=33 win=0 rtt=7.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=34 win=0 rtt=7.3 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=35 win=0 rtt=7.1 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=36 win=0 rtt=7.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=37 win=0 rtt=6.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=38 win=0 rtt=6.7 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=39 win=0 rtt=6.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=40 win=0 rtt=6.4 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=41 win=0 rtt=6.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=42 win=0 rtt=6.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=43 win=0 rtt=1.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=44 win=0 rtt=1.6 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=45 win=0 rtt=1.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=46 win=0 rtt=1.3 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=47 win=0 rtt=1.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=48 win=0 rtt=1.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=49 win=0 rtt=0.8 ms
+len=40 ip=159.203.10.221 ttl=1 DF id=0 sport=0 flags=RA seq=50 win=0 rtt=0.6 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=51 win=0 rtt=0.4 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=52 win=0 rtt=0.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=53 win=0 rtt=0.1 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=54 win=0 rtt=8.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=55 win=0 rtt=7.8 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=56 win=0 rtt=7.7 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=57 win=0 rtt=7.5 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=58 win=0 rtt=7.3 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=59 win=0 rtt=7.2 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=60 win=0 rtt=7.0 ms
+len=40 ip=159.203.10.221 ttl=64 DF id=0 sport=0 flags=RA seq=61 win=0 rtt=6.8 ms
+^C
+--- 159.203.10.221 hping statistic ---
+62 packets transmitted, 62 packets received, 0% packet loss
+round-trip min/avg/max = 0.1/4.0/8.1 ms
+
+2.
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# hping3 --udp -c 9000 --rand-source -i u10000 159.203.10.221
+HPING 159.203.10.221 (eth0 159.203.10.221): udp mode set, 28 headers + 0 data bytes
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1219 seq=0
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1220 seq=1
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1221 seq=2
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1222 seq=3
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1223 seq=4
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1224 seq=5
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1225 seq=6
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1226 seq=7
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1227 seq=8
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1228 seq=9
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1229 seq=10
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1230 seq=11
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1231 seq=12
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1232 seq=13
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1233 seq=14
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1234 seq=15
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1235 seq=16
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1236 seq=17
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1237 seq=18
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1238 seq=19
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1239 seq=20
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1240 seq=21
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1241 seq=22
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1242 seq=23
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1243 seq=24
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1244 seq=25
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1245 seq=26
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1246 seq=27
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1247 seq=28
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1248 seq=29
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1249 seq=30
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1250 seq=31
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1251 seq=32
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1252 seq=33
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1253 seq=34
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1254 seq=35
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1255 seq=36
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1256 seq=37
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1257 seq=38
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1258 seq=39
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1259 seq=40
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1260 seq=41
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1261 seq=42
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1262 seq=43
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1263 seq=44
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1264 seq=45
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1265 seq=46
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1266 seq=47
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1267 seq=48
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1268 seq=49
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1269 seq=50
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1270 seq=51
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1271 seq=52
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1272 seq=53
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1273 seq=54
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1274 seq=55
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1275 seq=56
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1276 seq=57
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1277 seq=58
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1279 seq=60
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1280 seq=61
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1281 seq=62
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1282 seq=63
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1283 seq=64
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1284 seq=65
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1285 seq=66
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1286 seq=67
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1287 seq=68
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1288 seq=69
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1289 seq=70
+ICMP Port Unreachable from ip=159.203.10.221 name=lamp-ubuntu-s-1vcpu-1gb-tor1-01
+status=0 port=1290 seq=71
+^C
+--- 159.203.10.221 hping statistic ---
+72 packets transmitted, 71 packets received, 2% packet loss
+round-trip min/avg/max = 0.5/18.6/1002.5 ms
+
+3.
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# hping3 -c 11000 --icmp -d 1000 -i u13333 159.203.10.221
+HPING 159.203.10.221 (eth0 159.203.10.221): icmp mode set, 28 headers + 1000 data bytes
+^C
+--- 159.203.10.221 hping statistic ---
+589 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
