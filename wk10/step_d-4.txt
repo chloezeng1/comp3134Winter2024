@@ -3,7 +3,7 @@ The browser shows a list of directories that are typically found in the root dir
 The presence of directories such as backups, cache, crash, and log suggests that sensitive system directories are accessible.
 
 2. What sensitive information is given by this page?
-ystem Structure Disclosure: The directory listing reveals the structure of the server's file system, which could provide an attacker with insights into potential targets for further exploitation.
+System Structure Disclosure: The directory listing reveals the structure of the server's file system, which could provide an attacker with insights into potential targets for further exploitation.
 Access to Sensitive Directories:
 backups: Could contain backup files that might include sensitive data.
 cache: May hold cached data, possibly including user information or application data.
