@@ -1,0 +1,12 @@
+1. What I see in the browser:
+Error Messages: The browser shows PHP warning messages indicating that the scandir() function failed to open a directory. 
+These messages appear because the script attempted to access a directory (Hello) that does not exist in the specified path.
+Path Disclosure: The warnings include the full path to the PHP script on the server (/var/www/html/directory_traversal_part1.php).
+This path disclosure gives away the directory structure of the server's file system to the user.
+
+2. What sensitive information is given by this page?
+Server File System Structure: The error messages expose the internal path of the web server's file system (/var/www/html/). 
+Knowing the directory structure can aid an attacker in crafting more targeted attacks, as they now understand part of the server's file hierarchy.
+Error Reporting Level: The fact that detailed errors are shown in the browser suggests that the server's PHP configuration (display_errors) is set to show errors and warnings. 
+This level of detail can provide attackers with insights into the server environment, potentially aiding in further exploitation.
+
