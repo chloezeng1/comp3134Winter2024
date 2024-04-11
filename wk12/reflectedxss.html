@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reflected XSS Demo</title>
+</head>
+<body>
+    <h1>Reflected XSS Example</h1>
+    <form id="xssForm">
+        <input type="text" id="userInput" placeholder="Enter your text here">
+        <input type="submit" value="Submit">
+    </form>
+    <div id="output"></div>
+
+    <script>
+        document.getElementById('xssForm').onsubmit = function(event) {
+            event.preventDefault();
+            var input = document.getElementById('userInput').value;
+            document.getElementById('output').innerHTML = input; // This is unsafe!
+        };
+    </script>
+</body>
+</html>

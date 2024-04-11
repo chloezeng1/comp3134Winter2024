@@ -1,0 +1,3 @@
+When using the csfr_form.php page, the form submission is successful only if the session's confirmation token matches the hidden form field's value, demonstrating effective CSRF mitigation.
+
+However, when attempting to submit the form via csfr.html (which lacks the session token mechanism), the request fails. This shows that without the correct confirmation token, the action page denies access, thereby preventing CSRF attacks.

