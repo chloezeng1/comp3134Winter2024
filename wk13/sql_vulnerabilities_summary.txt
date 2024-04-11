@@ -1,0 +1,9 @@
+Input: Ben
+Observation: It should return all users with the first name 'Ben' and where the active column equals 1.
+Explanation: This is the expected behavior for the provided input.
+**Input: Ben'-- **
+Observation: This input might return an error or unexpected results.
+Explanation: The '-- is a comment in SQL, so it will ignore the rest of the query, potentially leading to a security vulnerability.
+Input: Ben' or 1=1
+Observation: This could return all rows from the database where the active column equals 1, ignoring the first name condition.
+Explanation: The or 1=1 condition is always true, leading to a possible SQL injection vulnerability.
