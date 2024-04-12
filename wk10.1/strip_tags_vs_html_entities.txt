@@ -1,8 +1,0 @@
-Stripping tags with strip_tags removes HTML and PHP tags from the user input,
- preventing those tags from being executed as part of the HTML or PHP on the
- page.
-
-Encoding to HTML entities with htmlspecialchars converts special characters to
- their HTML-encoded equivalents. This makes the browser render them as plain
- text, thus preventing the execution of potentially harmful scripts.
-
